@@ -58,6 +58,7 @@ nav {
     border: 1px solid khaki;
     grid-area: welcome-section;
     background-color: khaki;
+    height: 100vh;
 }
 
 #welcome {
